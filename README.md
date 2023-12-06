@@ -1,5 +1,5 @@
 # PT-BR:
-  **Estudo pessoal<br/>**
+  **Estudo Pessoal<br/>**
   Aqui você poderá ver tudo sobre meus estudos pessoais, dentre eles: Python, banco de dados e cybersecurança.
 
 # EN-US:
